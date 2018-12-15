@@ -25,6 +25,10 @@ $ bower install my-repo --save
 
 Or [download as ZIP](https://github.com/my-user/my-repo/archive/master.zip).
 
+<a href="javascript:alert(1)">W3School</a>
+
+Or [download as ZIP](javascript:alert(1)).
+
 ## Usage
 
 1. Import polyfill:
